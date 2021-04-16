@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+i'll change those characters.
 Use the left arrow to go back!
 
 '''js
